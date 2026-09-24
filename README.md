@@ -1,6 +1,6 @@
 <h3 align="center">Just a normal person</h3>
 
-- 📫 Contact: **vuduchuyab@gmail.com**
+📫 Contact: **vuduchuyab@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
